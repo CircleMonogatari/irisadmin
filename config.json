@@ -1,0 +1,14 @@
+{
+  "AppName": "irisadmin",
+  "version": "0.0.1",
+  "mysql": {
+    "host": "rm-2vc1y3200xqv3a45cco.mysql.cn-chengdu.rds.aliyuncs.com",
+    "user": "shangfurong",
+    "password": "Thsks768"
+  },
+  "redis": {
+    "ip": "127.0.0.1:6638",
+    "user": "",
+    "password": ""
+  }
+}
